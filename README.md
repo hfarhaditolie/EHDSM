@@ -1,8 +1,9 @@
 # EHDSM
 Source codes of the paper entitled "Blind Quality Assessment of Screen Content Images via Edge Histogram Descriptor and Statistical Moments"
-
 ---------------------------------------
+
 Run demo.m to extract the EHDSM features for the sample screen content image "im.bmp"
+
 ---------------------------------------
 To evaluate the model on screen content datasets you need to do the following steps:
 
